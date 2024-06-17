@@ -1,1 +1,1 @@
-A museum app built using Ionic
+A mobile app built using Ionic. 
